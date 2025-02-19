@@ -1,0 +1,3 @@
+:set noexpandtab
+:retab!
+aded to the nvim configue so that it handle tabs norms 
