@@ -17,3 +17,5 @@ end
 
 require "lazy_setup"
 require "polish"
+
+vim.env.PATH = vim.env.PATH .. ":" .. "/home/sait-nac/.local/bin"
